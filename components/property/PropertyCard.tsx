@@ -1,5 +1,6 @@
 'use client';
 
+import { useState } from 'react';
 import Image from 'next/image';
 import { Heart, Phone } from 'lucide-react';
 import type { PropertyCardProps } from '@/types/index';
@@ -9,19 +10,20 @@ import Badge from '@/components/ui/Badge';
 export default function PropertyCard({ property, onSave, onContact, isSaved }: PropertyCardProps) {
   const { id, title, price, area, location, bhk, possessionStatus, badges, images } = property;
 
-  const handleImageError = (e: React.SyntheticEvent<HTMLImageElement>) => {
-    e.currentTarget.src = '/images/placeholder.jpg';
-  };
+  const [imgSrc, setImgSrc] = useState(
+    images?.[0] || `https://picsum.photos/seed/${id}/800/600`
+  );
 
   return (
     <div className="bg-white rounded-xl overflow-hidden shadow-md hover:scale-[1.02] hover:shadow-lg transition-all cursor-pointer">
       {/* Image */}
       <div className="relative h-48 w-full bg-gray-100">
-        <img
-          src={images?.[0] || '/images/placeholder.jpg'}
+        <Image
+          src={imgSrc}
           alt={title}
-          className="h-full w-full object-cover"
-          onError={handleImageError}
+          fill
+          className="object-cover"
+          onError={() => setImgSrc(`https://picsum.photos/seed/fallback/800/600`)}
         />
         {/* Badges overlay */}
         {badges.length > 0 && (

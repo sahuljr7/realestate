@@ -118,7 +118,7 @@ export default function QuoteForm() {
     `rounded-lg border px-3 py-2 text-sm outline-none transition focus:ring-2 focus:ring-blue-500 ${
       errors[field] && touched[field]
         ? 'border-red-400 bg-red-50'
-        : 'border-gray-300 bg-white'
+        : 'border-gray-300 bg-white text-gray-900'
     }`;
 
   return (

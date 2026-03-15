@@ -18,6 +18,7 @@ export default defineConfig({
     alias: {
       '@': resolve(__dirname, '.'),
       'next/navigation': resolve(__dirname, '__mocks__/next/navigation.ts'),
+      'next/image': resolve(__dirname, '__mocks__/next/image.tsx'),
       'lucide-react': resolve(__dirname, '__mocks__/lucide-react.ts'),
     },
   },

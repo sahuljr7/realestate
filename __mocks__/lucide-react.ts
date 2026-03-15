@@ -57,3 +57,4 @@ export const HelpCircle = () => null;
 export const ChevronRight2 = () => null;
 export const ArrowRight = () => null;
 export const ArrowLeft = () => null;
+export const CheckCircle = () => null;

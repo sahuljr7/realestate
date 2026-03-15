@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import Image from 'next/image';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface PropertyGalleryProps {
@@ -8,28 +9,41 @@ interface PropertyGalleryProps {
   title?: string;
 }
 
+const FALLBACK_URL = 'https://picsum.photos/seed/gallery-fallback/800/600';
+
 export default function PropertyGallery({ images, title }: PropertyGalleryProps) {
   const [current, setCurrent] = useState(0);
+  const [imgSrc, setImgSrc] = useState(
+    images.length > 0 ? images[0] : FALLBACK_URL
+  );
 
-  const list = images.length > 0 ? images : ['/images/placeholder.jpg'];
+  const list = images.length > 0 ? images : [FALLBACK_URL];
   const total = list.length;
 
-  const prev = () => setCurrent((c) => (c - 1 + total) % total);
-  const next = () => setCurrent((c) => (c + 1) % total);
+  const prev = () => {
+    const newIndex = (current - 1 + total) % total;
+    setCurrent(newIndex);
+    setImgSrc(list[newIndex]);
+  };
 
-  const handleImageError = (e: React.SyntheticEvent<HTMLImageElement>) => {
-    e.currentTarget.src = '/images/placeholder.jpg';
+  const next = () => {
+    const newIndex = (current + 1) % total;
+    setCurrent(newIndex);
+    setImgSrc(list[newIndex]);
   };
 
   return (
     <div className="relative w-full overflow-hidden rounded-xl bg-gray-100">
       {/* Image */}
-      <img
-        src={list[current]}
-        alt={title ? `${title} — image ${current + 1}` : `Property image ${current + 1}`}
-        className="h-72 w-full object-cover md:h-96"
-        onError={handleImageError}
-      />
+      <div className="relative h-72 w-full md:h-96">
+        <Image
+          src={imgSrc}
+          alt={title ? `${title} — image ${current + 1}` : `Property image ${current + 1}`}
+          fill
+          className="object-cover"
+          onError={() => setImgSrc(FALLBACK_URL)}
+        />
+      </div>
 
       {/* Prev button */}
       {total > 1 && (

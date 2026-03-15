@@ -44,7 +44,7 @@ export default function FilterSidebar({ filters, onChange, isOpen, onClose }: Fi
             onChange={(e) =>
               onChange({ minPrice: e.target.value ? Number(e.target.value) : null })
             }
-            className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+            className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-400"
           />
           <input
             type="number"
@@ -53,7 +53,7 @@ export default function FilterSidebar({ filters, onChange, isOpen, onClose }: Fi
             onChange={(e) =>
               onChange({ maxPrice: e.target.value ? Number(e.target.value) : null })
             }
-            className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+            className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-400"
           />
         </div>
       </section>
@@ -84,7 +84,7 @@ export default function FilterSidebar({ filters, onChange, isOpen, onClose }: Fi
           onChange={(e) =>
             onChange({ type: (e.target.value as PropertyType) || null })
           }
-          className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+          className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-400"
         >
           <option value="">All Types</option>
           {PROPERTY_TYPES.map((t) => (
@@ -101,7 +101,7 @@ export default function FilterSidebar({ filters, onChange, isOpen, onClose }: Fi
           onChange={(e) =>
             onChange({ sellerType: (e.target.value as SellerType) || null })
           }
-          className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+          className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-400"
         >
           <option value="">All</option>
           {SELLER_TYPES.map((s) => (
@@ -118,7 +118,7 @@ export default function FilterSidebar({ filters, onChange, isOpen, onClose }: Fi
           onChange={(e) =>
             onChange({ furnishing: (e.target.value as FurnishingStatus) || null })
           }
-          className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+          className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-400"
         >
           <option value="">Any</option>
           {FURNISHING_OPTIONS.map((f) => (
@@ -157,7 +157,7 @@ export default function FilterSidebar({ filters, onChange, isOpen, onClose }: Fi
           onChange={(e) =>
             onChange({ possessionStatus: (e.target.value as PossessionStatus) || null })
           }
-          className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+          className="w-full border border-gray-300 rounded-lg px-3 py-1.5 text-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-400"
         >
           <option value="">Any</option>
           {POSSESSION_OPTIONS.map((p) => (

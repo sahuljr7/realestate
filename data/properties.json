@@ -13,7 +13,11 @@
     "furnishing": "Semi-Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 5,
-    "images": ["/images/prop-001-1.jpg", "/images/prop-001-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-001/800/600",
+      "https://picsum.photos/seed/prop-001-2/800/600",
+      "https://picsum.photos/seed/prop-001-3/800/600"
+    ],
     "amenities": ["Gym", "Swimming Pool", "Parking", "Security"],
     "description": "A well-maintained 3BHK apartment in the heart of Bandra West with excellent connectivity and modern amenities.",
     "badges": ["verified"],
@@ -34,7 +38,11 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 2,
-    "images": ["/images/prop-002-1.jpg", "/images/prop-002-2.jpg", "/images/prop-002-3.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-002/800/600",
+      "https://picsum.photos/seed/prop-002-2/800/600",
+      "https://picsum.photos/seed/prop-002-3/800/600"
+    ],
     "amenities": ["Private Pool", "Garden", "Gym", "Home Theatre", "Parking", "Security"],
     "description": "Stunning luxury villa in Juhu with private pool and lush garden. Perfect for families seeking premium living.",
     "badges": ["featured", "verified"],
@@ -55,7 +63,10 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 10,
-    "images": ["/images/prop-003-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-003/800/600",
+      "https://picsum.photos/seed/prop-003-2/800/600"
+    ],
     "amenities": ["Parking", "Security", "Lift"],
     "description": "Compact and affordable 1BHK in Andheri East, ideal for working professionals. Close to metro station.",
     "badges": [],
@@ -76,7 +87,11 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 3,
-    "images": ["/images/prop-004-1.jpg", "/images/prop-004-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-004/800/600",
+      "https://picsum.photos/seed/prop-004-2/800/600",
+      "https://picsum.photos/seed/prop-004-3/800/600"
+    ],
     "amenities": ["24/7 Power Backup", "High-Speed Internet", "Parking", "Security", "Cafeteria"],
     "description": "Premium commercial office space in BKC, Mumbai's financial hub. Fully furnished with modern infrastructure.",
     "badges": ["featured"],
@@ -97,7 +112,10 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 8,
-    "images": ["/images/prop-005-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-005/800/600",
+      "https://picsum.photos/seed/prop-005-2/800/600"
+    ],
     "amenities": ["WiFi", "Meals Included", "Laundry", "Security"],
     "description": "Comfortable PG accommodation near Hiranandani, Powai. Ideal for IT professionals and students.",
     "badges": ["new"],
@@ -117,7 +135,10 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 0,
-    "images": ["/images/prop-006-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-006/800/600",
+      "https://picsum.photos/seed/prop-006-2/800/600"
+    ],
     "amenities": ["Corner Plot", "Wide Road Facing", "Electricity Connection"],
     "description": "Prime residential plot in Dwarka Sector 12. Clear title, ready for construction. Excellent investment opportunity.",
     "badges": ["verified"],
@@ -137,7 +158,11 @@
     "furnishing": "Semi-Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 7,
-    "images": ["/images/prop-007-1.jpg", "/images/prop-007-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-007/800/600",
+      "https://picsum.photos/seed/prop-007-2/800/600",
+      "https://picsum.photos/seed/prop-007-3/800/600"
+    ],
     "amenities": ["Gym", "Parking", "Security", "Club House"],
     "description": "Well-designed 2BHK apartment in Vasant Kunj with good ventilation and natural light. Close to malls and schools.",
     "badges": ["verified"],
@@ -158,7 +183,11 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 12,
-    "images": ["/images/prop-008-1.jpg", "/images/prop-008-2.jpg", "/images/prop-008-3.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-008/800/600",
+      "https://picsum.photos/seed/prop-008-2/800/600",
+      "https://picsum.photos/seed/prop-008-3/800/600"
+    ],
     "amenities": ["Private Garden", "Servant Quarters", "Parking", "Security", "Modular Kitchen"],
     "description": "Grand 5BHK villa in GK-II with spacious rooms, private garden, and premium finishes. A rare find in South Delhi.",
     "badges": ["featured"],
@@ -178,7 +207,10 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 15,
-    "images": ["/images/prop-009-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-009/800/600",
+      "https://picsum.photos/seed/prop-009-2/800/600"
+    ],
     "amenities": ["WiFi", "AC", "Meals", "Housekeeping"],
     "description": "Affordable PG in Lajpat Nagar with all basic amenities. Walking distance from metro station.",
     "badges": [],
@@ -198,7 +230,11 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Under Construction",
     "propertyAge": 0,
-    "images": ["/images/prop-010-1.jpg", "/images/prop-010-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-010/800/600",
+      "https://picsum.photos/seed/prop-010-2/800/600",
+      "https://picsum.photos/seed/prop-010-3/800/600"
+    ],
     "amenities": ["Gym", "Swimming Pool", "Clubhouse", "Parking", "Children's Play Area"],
     "description": "New launch 3BHK apartment in Whitefield IT corridor. Possession expected by Dec 2025. RERA registered.",
     "badges": ["new"],
@@ -219,7 +255,11 @@
     "furnishing": "Semi-Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 6,
-    "images": ["/images/prop-011-1.jpg", "/images/prop-011-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-011/800/600",
+      "https://picsum.photos/seed/prop-011-2/800/600",
+      "https://picsum.photos/seed/prop-011-3/800/600"
+    ],
     "amenities": ["Parking", "Security", "Power Backup", "Lift"],
     "description": "Charming 2BHK in Koramangala 5th Block. Walking distance to restaurants, cafes, and tech parks.",
     "badges": ["verified"],
@@ -239,7 +279,11 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Under Construction",
     "propertyAge": 0,
-    "images": ["/images/prop-012-1.jpg", "/images/prop-012-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-012/800/600",
+      "https://picsum.photos/seed/prop-012-2/800/600",
+      "https://picsum.photos/seed/prop-012-3/800/600"
+    ],
     "amenities": ["Private Garden", "Gym", "Swimming Pool", "Clubhouse", "Parking"],
     "description": "Luxurious independent villa in a gated community on Sarjapur Road. Possession by March 2026.",
     "badges": ["new", "featured"],
@@ -260,7 +304,10 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 0,
-    "images": ["/images/prop-013-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-013/800/600",
+      "https://picsum.photos/seed/prop-013-2/800/600"
+    ],
     "amenities": ["Corner Plot", "Main Road Facing", "BBMP Approved"],
     "description": "Prime commercial plot in Electronic City Phase 1. Ideal for IT office or commercial complex development.",
     "badges": ["verified"],
@@ -280,7 +327,10 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 4,
-    "images": ["/images/prop-014-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-014/800/600",
+      "https://picsum.photos/seed/prop-014-2/800/600"
+    ],
     "amenities": ["Parking", "Security", "Lift", "Power Backup"],
     "description": "Fully furnished studio apartment in Indiranagar. Perfect for young professionals. Move-in ready.",
     "badges": ["new"],
@@ -301,7 +351,11 @@
     "furnishing": "Semi-Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 3,
-    "images": ["/images/prop-015-1.jpg", "/images/prop-015-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-015/800/600",
+      "https://picsum.photos/seed/prop-015-2/800/600",
+      "https://picsum.photos/seed/prop-015-3/800/600"
+    ],
     "amenities": ["Gym", "Swimming Pool", "Parking", "Security", "Jogging Track"],
     "description": "Well-planned 3BHK apartment in Hinjewadi IT Park vicinity. Excellent connectivity to major tech companies.",
     "badges": ["verified"],
@@ -322,7 +376,11 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 8,
-    "images": ["/images/prop-016-1.jpg", "/images/prop-016-2.jpg", "/images/prop-016-3.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-016/800/600",
+      "https://picsum.photos/seed/prop-016-2/800/600",
+      "https://picsum.photos/seed/prop-016-3/800/600"
+    ],
     "amenities": ["Private Pool", "Garden", "Home Theatre", "Servant Quarters", "Parking", "Security"],
     "description": "Magnificent bungalow in Koregaon Park, Pune's most prestigious address. Fully furnished with premium interiors.",
     "badges": ["featured", "verified"],
@@ -342,7 +400,10 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 9,
-    "images": ["/images/prop-017-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-017/800/600",
+      "https://picsum.photos/seed/prop-017-2/800/600"
+    ],
     "amenities": ["Parking", "Security", "Lift"],
     "description": "Budget-friendly 2BHK in Wakad. Good connectivity to Hinjewadi IT Park. Ideal for first-time buyers.",
     "badges": [],
@@ -363,7 +424,10 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 0,
-    "images": ["/images/prop-018-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-018/800/600",
+      "https://picsum.photos/seed/prop-018-2/800/600"
+    ],
     "amenities": ["PMRDA Approved", "Wide Road Access", "Electricity Connection"],
     "description": "Freehold residential plot in Baner. NA converted, clear title. Excellent location for building your dream home.",
     "badges": ["verified"],
@@ -383,7 +447,10 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 20,
-    "images": ["/images/prop-019-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-019/800/600",
+      "https://picsum.photos/seed/prop-019-2/800/600"
+    ],
     "amenities": ["WiFi", "Meals", "Laundry", "CCTV", "Warden"],
     "description": "Safe and comfortable PG accommodation for girls in Kothrud. Close to Symbiosis and other colleges.",
     "badges": [],
@@ -403,7 +470,11 @@
     "furnishing": "Semi-Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 2,
-    "images": ["/images/prop-020-1.jpg", "/images/prop-020-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-020/800/600",
+      "https://picsum.photos/seed/prop-020-2/800/600",
+      "https://picsum.photos/seed/prop-020-3/800/600"
+    ],
     "amenities": ["Gym", "Swimming Pool", "Parking", "Security", "Clubhouse"],
     "description": "Contemporary 3BHK apartment in Gachibowli, Hyderabad's IT hub. Excellent connectivity to HITEC City.",
     "badges": ["new", "verified"],
@@ -424,7 +495,11 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 6,
-    "images": ["/images/prop-021-1.jpg", "/images/prop-021-2.jpg", "/images/prop-021-3.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-021/800/600",
+      "https://picsum.photos/seed/prop-021-2/800/600",
+      "https://picsum.photos/seed/prop-021-3/800/600"
+    ],
     "amenities": ["Private Pool", "Garden", "Gym", "Home Theatre", "Parking", "Security"],
     "description": "Opulent villa in Jubilee Hills with breathtaking city views. Premium finishes and smart home features.",
     "badges": ["featured"],
@@ -444,7 +519,11 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 4,
-    "images": ["/images/prop-022-1.jpg", "/images/prop-022-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-022/800/600",
+      "https://picsum.photos/seed/prop-022-2/800/600",
+      "https://picsum.photos/seed/prop-022-3/800/600"
+    ],
     "amenities": ["24/7 Power Backup", "High-Speed Internet", "Parking", "Security", "Conference Room"],
     "description": "Grade-A commercial office space in HITEC City. Ideal for IT companies and startups. Fully fitted out.",
     "badges": ["featured", "verified"],
@@ -465,7 +544,10 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 11,
-    "images": ["/images/prop-023-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-023/800/600",
+      "https://picsum.photos/seed/prop-023-2/800/600"
+    ],
     "amenities": ["Parking", "Security", "Lift"],
     "description": "Compact 1BHK apartment in Kondapur. Ideal for bachelors and young couples. Close to HITEC City.",
     "badges": [],
@@ -486,7 +568,10 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 0,
-    "images": ["/images/prop-024-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-024/800/600",
+      "https://picsum.photos/seed/prop-024-2/800/600"
+    ],
     "amenities": ["HMDA Approved", "Road Access", "Electricity Connection"],
     "description": "HMDA approved residential plot near Rajiv Gandhi International Airport. Great investment near upcoming infrastructure.",
     "badges": ["new"],
@@ -506,7 +591,10 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 7,
-    "images": ["/images/prop-025-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-025/800/600",
+      "https://picsum.photos/seed/prop-025-2/800/600"
+    ],
     "amenities": ["WiFi", "AC", "Meals", "Laundry", "Security"],
     "description": "Well-maintained PG in Madhapur, walking distance from HITEC City. Suitable for IT professionals.",
     "badges": [],
@@ -526,7 +614,11 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Under Construction",
     "propertyAge": 0,
-    "images": ["/images/prop-026-1.jpg", "/images/prop-026-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-026/800/600",
+      "https://picsum.photos/seed/prop-026-2/800/600",
+      "https://picsum.photos/seed/prop-026-3/800/600"
+    ],
     "amenities": ["Gym", "Parking", "Security", "Rooftop Garden"],
     "description": "New launch 2BHK in Chembur with excellent connectivity via Eastern Express Highway and Monorail. Possession Dec 2025.",
     "badges": ["new"],
@@ -547,7 +639,11 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 1,
-    "images": ["/images/prop-027-1.jpg", "/images/prop-027-2.jpg", "/images/prop-027-3.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-027/800/600",
+      "https://picsum.photos/seed/prop-027-2/800/600",
+      "https://picsum.photos/seed/prop-027-3/800/600"
+    ],
     "amenities": ["Rooftop Terrace", "Gym", "Concierge", "Parking", "Security", "Smart Home"],
     "description": "Exclusive penthouse in the heart of Delhi with panoramic city views. Ultra-luxury finishes and smart home automation.",
     "badges": ["featured", "verified"],
@@ -568,7 +664,10 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 0,
-    "images": ["/images/prop-028-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-028/800/600",
+      "https://picsum.photos/seed/prop-028-2/800/600"
+    ],
     "amenities": ["DDA Approved", "Corner Plot", "Main Road Facing"],
     "description": "DDA approved commercial plot in Rohini Sector 9. Excellent location for retail or office development.",
     "badges": ["verified"],
@@ -589,7 +688,11 @@
     "furnishing": "Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 5,
-    "images": ["/images/prop-029-1.jpg", "/images/prop-029-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-029/800/600",
+      "https://picsum.photos/seed/prop-029-2/800/600",
+      "https://picsum.photos/seed/prop-029-3/800/600"
+    ],
     "amenities": ["Gym", "Swimming Pool", "Parking", "Security", "Clubhouse", "Children's Play Area"],
     "description": "Beautifully furnished 3BHK in HSR Layout. Premium society with all amenities. Close to Silk Board junction.",
     "badges": ["verified"],
@@ -609,7 +712,11 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Under Construction",
     "propertyAge": 0,
-    "images": ["/images/prop-030-1.jpg", "/images/prop-030-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-030/800/600",
+      "https://picsum.photos/seed/prop-030-2/800/600",
+      "https://picsum.photos/seed/prop-030-3/800/600"
+    ],
     "amenities": ["Gym", "Swimming Pool", "Clubhouse", "Parking", "Security", "Jogging Track"],
     "description": "Spacious 4BHK in Kharadi IT Park area. RERA registered project with possession by June 2026.",
     "badges": ["new", "featured"],
@@ -630,7 +737,11 @@
     "furnishing": "Semi-Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 18,
-    "images": ["/images/prop-031-1.jpg", "/images/prop-031-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-031/800/600",
+      "https://picsum.photos/seed/prop-031-2/800/600",
+      "https://picsum.photos/seed/prop-031-3/800/600"
+    ],
     "amenities": ["Sea View", "24/7 Power Backup", "Parking", "Security", "Reception"],
     "description": "Prestigious commercial office space in Nariman Point with stunning sea views. Ideal for corporate headquarters.",
     "badges": ["featured"],
@@ -651,7 +762,11 @@
     "furnishing": "Semi-Furnished",
     "possessionStatus": "Under Construction",
     "propertyAge": 0,
-    "images": ["/images/prop-032-1.jpg", "/images/prop-032-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-032/800/600",
+      "https://picsum.photos/seed/prop-032-2/800/600",
+      "https://picsum.photos/seed/prop-032-3/800/600"
+    ],
     "amenities": ["Gym", "Parking", "Security", "Power Backup", "Lift"],
     "description": "New 2BHK apartment in Sector 62 with metro connectivity. RERA approved project, possession by Dec 2025.",
     "badges": ["new"],
@@ -672,7 +787,11 @@
     "furnishing": "Semi-Furnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 14,
-    "images": ["/images/prop-033-1.jpg", "/images/prop-033-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-033/800/600",
+      "https://picsum.photos/seed/prop-033-2/800/600",
+      "https://picsum.photos/seed/prop-033-3/800/600"
+    ],
     "amenities": ["Garden", "Servant Quarters", "Parking", "Security", "Modular Kitchen"],
     "description": "Spacious independent house in Banjara Hills. Excellent location with easy access to hospitals, schools, and malls.",
     "badges": ["verified"],
@@ -692,7 +811,10 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 16,
-    "images": ["/images/prop-034-1.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-034/800/600",
+      "https://picsum.photos/seed/prop-034-2/800/600"
+    ],
     "amenities": ["Parking", "Security"],
     "description": "Affordable 1BHK in Kothrud. Ideal for students and working professionals. Close to Symbiosis and FC Road.",
     "badges": [],
@@ -712,7 +834,11 @@
     "furnishing": "Unfurnished",
     "possessionStatus": "Ready to Move",
     "propertyAge": 9,
-    "images": ["/images/prop-035-1.jpg", "/images/prop-035-2.jpg"],
+    "images": [
+      "https://picsum.photos/seed/prop-035/800/600",
+      "https://picsum.photos/seed/prop-035-2/800/600",
+      "https://picsum.photos/seed/prop-035-3/800/600"
+    ],
     "amenities": ["Parking", "Security", "Power Backup", "Lift"],
     "description": "Ground floor commercial space in Koramangala 6th Block. High footfall area, ideal for retail or restaurant.",
     "badges": ["verified"],
