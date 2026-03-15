@@ -215,7 +215,7 @@ export default function SearchBar({ initialFilters, sticky, onSearch }: SearchBa
             onChange={(e) => handleLocationChange(e.target.value)}
             onFocus={() => suggestions.length > 0 && setShowDropdown(true)}
             onBlur={() => setTimeout(() => setShowDropdown(false), 150)}
-            className="w-full border border-gray-300 rounded-lg px-4 py-2 text-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
+            className="w-full border border-gray-300 rounded-lg px-4 py-2 text-sm text-gray-900 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
           />
           {showDropdown && (
             <div
@@ -258,7 +258,7 @@ export default function SearchBar({ initialFilters, sticky, onSearch }: SearchBa
                   minPrice: e.target.value === '' ? null : Number(e.target.value),
                 }))
               }
-              className="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
+              className="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm text-gray-900 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
             />
           </div>
           <div className="flex-1">
@@ -277,7 +277,7 @@ export default function SearchBar({ initialFilters, sticky, onSearch }: SearchBa
                   maxPrice: e.target.value === '' ? null : Number(e.target.value),
                 }))
               }
-              className="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
+              className="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm text-gray-900 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
             />
           </div>
         </div>
@@ -318,7 +318,7 @@ export default function SearchBar({ initialFilters, sticky, onSearch }: SearchBa
                   type: (e.target.value as PropertyType) || null,
                 }))
               }
-              className="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
+              className="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm text-gray-900 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500"
             >
               <option value="">All Types</option>
               {PROPERTY_TYPES.map((t) => (
