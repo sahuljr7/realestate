@@ -1,0 +1,92 @@
+[
+  {
+    "id": "blog-001",
+    "title": "Top 5 Localities to Invest in Mumbai in 2025",
+    "excerpt": "Mumbai's real estate market continues to evolve with several micro-markets showing strong appreciation. From Chembur to Thane, we break down the top localities offering the best returns for investors in 2025.",
+    "image": "/images/blog-001.jpg",
+    "author": "Rajesh Sharma",
+    "publishedAt": "2024-11-15T09:00:00Z",
+    "category": "Market Trends"
+  },
+  {
+    "id": "blog-002",
+    "title": "First-Time Home Buyer's Complete Guide to Home Loans",
+    "excerpt": "Navigating the home loan process can be overwhelming for first-time buyers. This guide covers everything from eligibility criteria and documentation to choosing the right lender and negotiating interest rates.",
+    "image": "/images/blog-002.jpg",
+    "author": "Priya Mehta",
+    "publishedAt": "2024-11-10T10:00:00Z",
+    "category": "Home Buying Guide"
+  },
+  {
+    "id": "blog-003",
+    "title": "Why Bangalore's IT Corridor Remains a Safe Bet for Investors",
+    "excerpt": "Despite global tech sector headwinds, Bangalore's Whitefield and Electronic City corridors continue to attract strong demand from both end-users and investors. We analyze the fundamentals driving this resilience.",
+    "image": "/images/blog-003.jpg",
+    "author": "Vikram Nair",
+    "publishedAt": "2024-11-05T08:30:00Z",
+    "category": "Investment Tips"
+  },
+  {
+    "id": "blog-004",
+    "title": "Modern Minimalist Interiors: Transforming Small Apartments",
+    "excerpt": "Small spaces don't have to feel cramped. Interior designer Deepa Krishnan shares her top tips for using minimalist design principles, smart storage, and strategic lighting to make compact apartments feel spacious and stylish.",
+    "image": "/images/blog-004.jpg",
+    "author": "Deepa Krishnan",
+    "publishedAt": "2024-10-28T11:00:00Z",
+    "category": "Interior Design"
+  },
+  {
+    "id": "blog-005",
+    "title": "RERA Explained: What Every Home Buyer Must Know",
+    "excerpt": "The Real Estate Regulation and Development Act has transformed buyer protections in India. Learn how RERA registration works, what disclosures builders must make, and how to file a complaint if your project is delayed.",
+    "image": "/images/blog-005.jpg",
+    "author": "Sunita Verma",
+    "publishedAt": "2024-10-20T09:00:00Z",
+    "category": "Legal Guide"
+  },
+  {
+    "id": "blog-006",
+    "title": "Hyderabad Real Estate: The Rise of Gachibowli and Beyond",
+    "excerpt": "Hyderabad has emerged as one of India's fastest-growing real estate markets, with Gachibowli and HITEC City leading the charge. We explore price trends, upcoming infrastructure projects, and the best investment windows.",
+    "image": "/images/blog-006.jpg",
+    "author": "Kavitha Reddy",
+    "publishedAt": "2024-10-15T10:00:00Z",
+    "category": "Market Trends"
+  },
+  {
+    "id": "blog-007",
+    "title": "How to Negotiate the Best Price When Buying a Resale Property",
+    "excerpt": "Buying a resale property gives you room to negotiate, but only if you know the right tactics. From researching comparable sales to identifying motivated sellers, this guide arms you with strategies to get the best deal.",
+    "image": "/images/blog-007.jpg",
+    "author": "Anil Kapoor",
+    "publishedAt": "2024-10-08T08:00:00Z",
+    "category": "Home Buying Guide"
+  },
+  {
+    "id": "blog-008",
+    "title": "Stamp Duty and Registration Charges: A State-by-State Breakdown",
+    "excerpt": "Stamp duty and registration fees can add 5–8% to your property purchase cost, yet many buyers overlook them in their budget planning. This article provides a comprehensive breakdown of charges across Maharashtra, Karnataka, Delhi, and Telangana.",
+    "image": "/images/blog-008.jpg",
+    "author": "Meena Joshi",
+    "publishedAt": "2024-09-30T09:30:00Z",
+    "category": "Legal Guide"
+  },
+  {
+    "id": "blog-009",
+    "title": "Biophilic Design: Bringing Nature Into Your Home",
+    "excerpt": "Biophilic design—incorporating natural elements like plants, water features, and natural light—is one of 2025's biggest interior trends. Designer Rohit Desai explains how to apply these principles in Indian homes on any budget.",
+    "image": "/images/blog-009.jpg",
+    "author": "Rohit Desai",
+    "publishedAt": "2024-09-22T11:00:00Z",
+    "category": "Interior Design"
+  },
+  {
+    "id": "blog-010",
+    "title": "Pune's Emerging Micro-Markets: Kharadi and Wakad in Focus",
+    "excerpt": "As Pune's established localities like Koregaon Park and Baner reach saturation, savvy investors are turning to emerging micro-markets. Kharadi and Wakad offer strong rental yields and capital appreciation potential driven by IT expansion.",
+    "image": "/images/blog-010.jpg",
+    "author": "Suresh Patil",
+    "publishedAt": "2024-09-15T10:00:00Z",
+    "category": "Investment Tips"
+  }
+]

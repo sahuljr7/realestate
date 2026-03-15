@@ -1,0 +1,122 @@
+[
+  {
+    "id": "agent-001",
+    "name": "Rajesh Sharma",
+    "phone": "+91-9800000001",
+    "email": "rajesh.sharma@example.com",
+    "agency": "Prime Realty India",
+    "rating": 4.8,
+    "portfolioImage": "/images/agent-001.jpg",
+    "specialty": "Luxury"
+  },
+  {
+    "id": "agent-002",
+    "name": "Priya Mehta",
+    "phone": "+91-9800000002",
+    "email": "priya.mehta@example.com",
+    "agency": "Mumbai Homes Pvt Ltd",
+    "rating": 4.6,
+    "portfolioImage": "/images/agent-002.jpg",
+    "specialty": "Residential"
+  },
+  {
+    "id": "agent-003",
+    "name": "Anil Kapoor",
+    "phone": "+91-9800000003",
+    "email": "anil.kapoor@example.com",
+    "agency": "Commercial Spaces India",
+    "rating": 4.5,
+    "portfolioImage": "/images/agent-003.jpg",
+    "specialty": "Commercial"
+  },
+  {
+    "id": "agent-004",
+    "name": "Sunita Verma",
+    "phone": "+91-9800000004",
+    "email": "sunita.verma@example.com",
+    "agency": "Delhi Property Hub",
+    "rating": 4.7,
+    "portfolioImage": "/images/agent-004.jpg",
+    "specialty": "Residential"
+  },
+  {
+    "id": "agent-005",
+    "name": "Vikram Nair",
+    "phone": "+91-9800000005",
+    "email": "vikram.nair@example.com",
+    "agency": "Bangalore Estates",
+    "rating": 4.4,
+    "portfolioImage": "/images/agent-005.jpg",
+    "specialty": "Residential"
+  },
+  {
+    "id": "agent-006",
+    "name": "Deepa Krishnan",
+    "phone": "+91-9800000006",
+    "email": "deepa.krishnan@example.com",
+    "agency": "Interior Spaces Studio",
+    "rating": 4.9,
+    "portfolioImage": "/images/agent-006.jpg",
+    "specialty": "Interior Design"
+  },
+  {
+    "id": "agent-007",
+    "name": "Suresh Patil",
+    "phone": "+91-9800000007",
+    "email": "suresh.patil@example.com",
+    "agency": "Pune Property Experts",
+    "rating": 4.3,
+    "portfolioImage": "/images/agent-007.jpg",
+    "specialty": "Residential"
+  },
+  {
+    "id": "agent-008",
+    "name": "Kavitha Reddy",
+    "phone": "+91-9800000008",
+    "email": "kavitha.reddy@example.com",
+    "agency": "Hyderabad Realtors",
+    "rating": 4.6,
+    "portfolioImage": "/images/agent-008.jpg",
+    "specialty": "Commercial"
+  },
+  {
+    "id": "agent-009",
+    "name": "Arjun Rao",
+    "phone": "+91-9800000009",
+    "email": "arjun.rao@example.com",
+    "agency": "South India Properties",
+    "rating": 3.9,
+    "portfolioImage": "/images/agent-009.jpg",
+    "specialty": "Residential"
+  },
+  {
+    "id": "agent-010",
+    "name": "Meena Joshi",
+    "phone": "+91-9800000010",
+    "email": "meena.joshi@example.com",
+    "agency": "NCR Realty Group",
+    "rating": 4.2,
+    "portfolioImage": "/images/agent-010.jpg",
+    "specialty": "Residential"
+  },
+  {
+    "id": "agent-011",
+    "name": "Rohit Desai",
+    "phone": "+91-9800000011",
+    "email": "rohit.desai@example.com",
+    "agency": "Design & Dwell Studio",
+    "rating": 4.8,
+    "portfolioImage": "/images/agent-011.jpg",
+    "specialty": "Interior Design"
+  },
+  {
+    "id": "agent-012",
+    "name": "Ananya Singh",
+    "phone": "+91-9800000012",
+    "email": "ananya.singh@example.com",
+    "agency": "Luxe Interiors India",
+    "rating": 4.7,
+    "portfolioImage": "/images/agent-012.jpg",
+    "specialty": "Interior Design"
+  }
+]
