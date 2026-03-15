@@ -3,7 +3,7 @@
 import { useRouter } from 'next/navigation';
 import { useLocalities } from '@/hooks/useLocalities';
 import LocalityCard from '@/components/locality/LocalityCard';
-import { Skeleton } from '@/components/ui/Skeleton';
+import Skeleton from '@/components/ui/Skeleton';
 
 export default function LocalitiesPage() {
   const router = useRouter();
